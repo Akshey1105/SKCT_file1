@@ -1,0 +1,23 @@
+* {margin: 0px;}
+#wrapper {background-color: white;width: 1000px;height: 800px;margin: 0 auto;}
+#head { background-color:red; width: 1000px;height: 147px;float: left;}
+#mid { background-color: grey;width: 1000px;height: 613px;float: left;}
+#margin { background: yellow;width: 162px;height: 613px;float: left;}
+#right { background-color: lightgray; width: 838px;height: 613px;float: left;}
+#tbox {background-color: blue;width: 817px; height: 151px;float: left;margin: 10px 10px 5px 10px;}
+#r1 { background-color: lightgray;width: 818px;height: 136px; float: left;margin: 5px 10px;}
+#b1 { background-color: white;width: 154px;height: 136px;float: left; margin-right: 10px;}
+#inb1 { background-color: black; width: 154px;height: 30px;float: left;}
+#inb2 { background-color: brown; width: 154px;height: 106px;float: left;}
+#b2 { background-color: white;width: 650px;height: 136px;float: right; }
+#inb3{ background-color: cyan; width: 650px;height: 106px;float: right;}
+#inb4 { background-color:black; width: 650px;height: 30px;float: right;}
+#r2 { background-color: lightgray;width: 818px;height: 152px; float: left;margin: 5px 10px;}
+#b3 { background-color: white;width: 650px;height: 136px;float: left; margin-right: 10px;}
+#inb5 { background-color: black; width: 650px;height: 30px;float: left;}
+#inb6 { background-color:#ec008c; width: 650px;height: 122px;float: left;}
+#b4 { background-color: white;width: 154px;height: 136px;float: right; }
+#inb7{ background-color: #598527; width: 154px;height: 122px;float: right;}
+#inb8 { background-color:black; width: 154px;height: 30px;float: right;}
+#bbox {background-color: #fbaf5d;width: 818px; height: 121px;float: left;margin: 5px 10px 10px 10px;}
+#footer { background-color:#00ff00; width: 1000px;height: 42px;float: left;}
